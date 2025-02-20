@@ -7,3 +7,10 @@ body {
 h1 {
     color: #007bff;
 }
+
+.Unique Cyber Certifications {
+    position: absolute;
+    right: 20px;  /* Moves it to the right */
+    top: 100px;  /* Adjust position vertically */
+    text-align: right;
+}
